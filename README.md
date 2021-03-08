@@ -19,7 +19,7 @@ To edit the styles, use [`lessc`](http://lesscss.org/usage/) on specific files o
 ```
 Screenshots: (click to view)
 
-<img src="https://raw.githubusercontent.com/AlpyneDreams/vgui.css/master/screenshots/greensteam1.png" width="300"> <img src="https://raw.githubusercontent.com/AlpyneDreams/vgui.css/master/screenshots/greensteam2.png" width="300">
+<img src="https://raw.githubusercontent.com/xVenti/vgui.css/master/screenshots/greensteam1.png" width="300"> <img src="https://raw.githubusercontent.com/xVenti/vgui.css/master/screenshots/greensteam2.png" width="300">
 
 
 ## Blacksteam
@@ -28,4 +28,13 @@ Screenshots: (click to view)
 ```
 Screenshots: (click to view)
 
-<img src="https://raw.githubusercontent.com/AlpyneDreams/vgui.css/master/screenshots/blacksteam1.png" width="300"> <img src="https://raw.githubusercontent.com/AlpyneDreams/vgui.css/master/screenshots/blacksteam2.png" width="300">
+<img src="https://raw.githubusercontent.com/xVenti/vgui.css/master/screenshots/blacksteam1.png" width="300"> <img src="https://raw.githubusercontent.com/xVenti/vgui.css/master/screenshots/blacksteam2.png" width="300">
+
+
+## Greysteam
+```html
+<link rel=stylesheet type=text/css href="/styles/greysteam/greysteam.css">
+```
+Screenshots: (click to view)
+
+<img src="https://raw.githubusercontent.com/xVenti/vgui.css/master/screenshots/greysteam1.png" width="300"> <img src="https://raw.githubusercontent.com/xVenti/vgui.css/master/screenshots/greysteam2.png" width="300">
