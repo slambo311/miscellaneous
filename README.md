@@ -10,8 +10,8 @@ To edit the styles, use [`lessc`](http://lesscss.org/usage/) on specific files o
 
 ### Online Demo
 
-- [Green Steam Demo](https://alpynedreams.github.io/vgui.css/demo_greensteam)
-- [Black Steam Demo](https://alpynedreams.github.io/vgui.css/demo_blacksteam)
+- [Green Steam Demo](https://xVenti.github.io/vgui.css/demo_greensteam)
+- [Black Steam Demo](https://xVenti.github.io/vgui.css/demo_blacksteam)
 - [Grey Steam Demo](https://xVenti.github.io/vgui.css/demo_greysteam)
 
 ## Greensteam
