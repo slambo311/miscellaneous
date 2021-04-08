@@ -1,6 +1,6 @@
 # VGUI.css
 
-CSS Classic Green VGUI Skin from early Steam and Goldsource games, with a black variant.
+CSS Classic Green VGUI Skin from early Steam and Goldsource games, with a black variant. Also included is a grey variant from Source engine games.
 
 To use, install the `styles` folder onto your server, and add the `<link>` line to your HTML file, changing the path if necessary.
 
