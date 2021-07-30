@@ -1,6 +1,6 @@
 # VGUI.css
 
-CSS Classic Green VGUI Skin from early Steam and Goldsource games, with a black variant.
+CSS Classic Green VGUI Skin from early Steam and Goldsource games, with a black variant. Also included is a grey variant from Source engine games.
 
 To use, install the `styles` folder onto your server, and add the `<link>` line to your HTML file, changing the path if necessary.
 
@@ -10,8 +10,8 @@ To edit the styles, use [`lessc`](http://lesscss.org/usage/) on specific files o
 
 ### Online Demo
 
-- [Green Steam Demo](https://alpynedreams.github.io/vgui.css/demo_greensteam)
-- [Black Steam Demo](https://alpynedreams.github.io/vgui.css/demo_blacksteam)
+- [Green Steam Demo](https://xVenti.github.io/vgui.css/demo_greensteam)
+- [Black Steam Demo](https://xVenti.github.io/vgui.css/demo_blacksteam)
 - [Grey Steam Demo](https://xVenti.github.io/vgui.css/demo_greysteam)
 
 ## Greensteam
