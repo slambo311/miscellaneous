@@ -10,9 +10,9 @@ To edit the styles, use [`lessc`](http://lesscss.org/usage/) on specific files o
 
 ### Online Demo
 
-- [Green Steam Demo](https://xVenti.github.io/vgui.css/demo_greensteam)
-- [Black Steam Demo](https://xVenti.github.io/vgui.css/demo_blacksteam)
-- [Grey Steam Demo](https://xVenti.github.io/vgui.css/demo_greysteam)
+- [Green Steam Demo](https://slambo311.github.io/miscellaneous/demo_greensteam)
+- [Black Steam Demo](https://slambo311.github.io/miscellaneous/demo_blacksteam)
+- [Grey Steam Demo](https://slambo311.github.io/miscellaneous/demo_greysteam)
 
 ## Greensteam
 ```html
@@ -20,7 +20,7 @@ To edit the styles, use [`lessc`](http://lesscss.org/usage/) on specific files o
 ```
 Screenshots: (click to view)
 
-<img src="https://raw.githubusercontent.com/xVenti/vgui.css/master/screenshots/greensteam1.png" width="300"> <img src="https://raw.githubusercontent.com/xVenti/vgui.css/master/screenshots/greensteam2.png" width="300">
+<img src="https://raw.githubusercontent.com/slambo311/miscellaneous/main/screenshots/greensteam1.png" width="300"> <img src="https://raw.githubusercontent.com/slambo311/miscellaneous/main/screenshots/greensteam2.png" width="300">
 
 
 ## Blacksteam
@@ -29,7 +29,7 @@ Screenshots: (click to view)
 ```
 Screenshots: (click to view)
 
-<img src="https://raw.githubusercontent.com/xVenti/vgui.css/master/screenshots/blacksteam1.png" width="300"> <img src="https://raw.githubusercontent.com/xVenti/vgui.css/master/screenshots/blacksteam2.png" width="300">
+<img src="https://raw.githubusercontent.com/slambo311/miscellaneous/main/screenshots/blacksteam1.png" width="300"> <img src="https://raw.githubusercontent.com/slambo311/miscellaneous/main/screenshots/blacksteam2.png" width="300">
 
 
 ## Greysteam
@@ -38,4 +38,4 @@ Screenshots: (click to view)
 ```
 Screenshots: (click to view)
 
-<img src="https://raw.githubusercontent.com/xVenti/vgui.css/master/screenshots/greysteam1.png" width="300"> <img src="https://raw.githubusercontent.com/xVenti/vgui.css/master/screenshots/greysteam2.png" width="300">
+<img src="https://raw.githubusercontent.com/slambo311/miscellaneous/main/screenshots/greysteam1.png" width="300"> <img src="https://raw.githubusercontent.com/slambo311/miscellaneous/main/screenshots/greysteam2.png" width="300">
