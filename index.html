@@ -5,17 +5,16 @@
 
 	<main>
 		<div class="window no-resize" name="Hammer World Editor">
-			<p>Use nodraw before hollowing out the starting cube, then change the interior textures, preferably to 2D or 3D skybox.</p>
+			<p>Use nodraw before hollowing out the starting cube, THEN change the interior textures. This will significantly speed up the map-making process, as you don't need to change every single non-visible face just because you hollowed it out first.</p>
 			<p>Making Portal tests in hammer is a pain, you have to use a bunch of crappy prefabs, and have the room be JUST the right size, and the textures have to be JUST right, or it'll look terrible. Just use BEE2 (maybe even edit BEE2 levels). However, once Portal 2 Community Edition comes out, go ahead.</p>
 			<p>Remember, displacements exist. Use them.</p>
 		</div>
 		<div class="window no-resize" name="Source Filmmaker">
-			<p>Use the "rigs" that add more settings for cameras and lights.</p>
 			<p>To bonemerge/parent, drag the parent animation set onto the child animation set. Then, while selecting the child animation set, use the "Zero" preset. Finally, select the child animation set's flexes (if it has any), and set them to default. This method can also be used to replace models.</p>
-			<p>I'd recommend against using recordings to make things animatable, it is a pain to figure out which things are which.</p>
+			<p>When recording, make sure that you only record what is needed.</p>
 			<p>Maps without lighting are useful for if you want to use JUST your own lighting.</p>
 			<p>Remember to visualize in your head what you want to make before making it.</p>
-			<p>Medic and Sniper's models are great for bonemerging.</p>
+			<p>Medic and Sniper's models have similar structure, and bonemerging them will rarely cause any problems.</p>
 		</div>
 		<div class="window no-resize" name="Team Fortress 2"
 			<p>Stay away from 2fort. I know it's great, but staying on 2fort can prevent you from getting better at TF2. Break away from the endless cycle of 2fort, and try Dustbowl for a change.</p>
@@ -28,16 +27,27 @@
 		<div class="window no-resize" name="Modelling">
 			<p>Remember to mess around. Who needs half an hour long tutorials when you can learn by crashing Blender 50 times in a row?</p>
 			<p>Subdivide multiple times to lag the hell out of everything.</p>
+			<p>When importing Source models, remember that with the wrong settings, all the models' parts will be stuffed into one spot.</p>
 		</div>
 		<div class="window no-resize" name="Weapon scripts">
 			<p>The bucket values control the weapon's slot. 0,0 is the crowbar, not 1,1.</p>
 			<p>Make sure that every printname and slot is different.</p>
 		</div>
 		<div class="window no-resize" name="Notable maps and where to find them">
+			<p>Note: All the Meet the Team maps have a lot of modifications. Medic's was only revealed through a SFM advertisement showing an early MTM scene taking place in badwater. In the final MTM, it's barely recognizable.</p>
 			<ul>
 				<li>HL2 EP2 Barn Advisor: ep2_outland_07</li>
 				<li>HL2 EP2 Eli Death: ep2_outland_12a</li>
 				<li>HL1 Trash Compactor: c2a4</li>
+				<li>Meet the Scout: cp_well</li>
+				<li>Meet the Soldier: cp_granary</li>
+				<li>Meet the Pyro: mvm_coaltown</li>
+				<li>Meet the Demoman: cp_gravelpit</li>
+				<li>Meet the Heavy: cp_dustbowl</li>
+				<li>Meet the Engineer: Unknown, but somebody thinks it's Hydro</li>
+				<li>Meet the Medic: pl_badwater</li>
+				<li>Meet the Sniper: pl_goldrush</li>
+				<li>Meet the Spy: ctf_2fort</li>
 			</ul>
 		</div>
 	</main>
